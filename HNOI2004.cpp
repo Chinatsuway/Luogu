@@ -34,4 +34,5 @@ int main()
 		}
 	}
 	cout<<ans;
+	return 0;
 }
